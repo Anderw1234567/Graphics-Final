@@ -1,10 +1,11 @@
 # Graphics-Final
 cmsc381 final
 
+First of all, there is a whole plethora of other files and manifests required to actually build and run this on an Android device. Just reach out and let me know if you would like the full project and I would be happy to send it to you.
 
 Starter code to get OpenGL up and running was found at: https://developer.android.com/training/graphics/opengl
 
-I couldn't get 3d to work, I have the code the initialize 3d objects (See Cube and Pyramid Classes).
+I couldn't get 3d to work, though I have the code the initialize 3d objects (See Cube and Pyramid Classes).
 
 OpenGL in Android is quite different than in c++, you have to define a vertex and fragment shader for each individual class object, and can define and use different view matrices for each object.
 
