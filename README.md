@@ -15,3 +15,5 @@ I tried to implement another behaviour where you can click on a screen and a sha
 I tried to get the bouncing objects to reset to a slower speed after it goes over a threshold, but that just makes it very stuttery for some reason, and will not work. 
 
 You can drag your finger on the screen to rotate the smaller triangles around the center.
+
+As of writing this, it is pending publciation on the app store under the name "381Final" for anybody who wants to download it.
