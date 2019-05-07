@@ -11,3 +11,7 @@ OpenGL in Android is quite different than in c++, you have to define a vertex an
 It is much more modular, as it defines functions to be called at different stages of the program. You can look in "MyGLSurfaceView.java" and "MyGLRenderer.java" for these.
 
 I tried to implement another behaviour where you can click on a screen and a shape will appear where you clicked, but the object just disappears as soon as you click, even after I adjusted for the bounds of the screen. It might have something to do with how I'm using the translation matrix to move the object, but I'm not sure.
+
+I tried to get the bouncing objects to reset to a slower speed after it goes over a threshold, but that just makes it very stuttery for some reason, and will not work. 
+
+You can drag your finger on the screen to rotate the smaller triangles around the center.
